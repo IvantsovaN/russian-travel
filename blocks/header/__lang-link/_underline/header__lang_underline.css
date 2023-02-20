@@ -1,0 +1,11 @@
+.header__lang-link_underline {
+    text-decoration: none;
+    height: 29px;
+    margin-bottom: 1px;
+}
+@media screen and (max-width: 767px)  {
+    .header__lang-link_underline {
+        height: 22px;
+        margin-bottom: 0;
+    }
+}

@@ -1,0 +1,16 @@
+.header__language {
+    position: relative;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    max-width: 78px;
+    gap: 18px;
+}
+
+@media screen and (max-width: 767px)  {
+    .header {
+        max-width: 58px;        
+    }
+}
