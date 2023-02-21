@@ -1,6 +1,6 @@
 .places {
     position: relative;
-    width: calc(100%-296px);
+    width: calc(100% - 296px);
     min-height: 32px;
     margin: 0 148px 0 148px;
     padding: 0;
@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 1279px) {
     .places {
-        width: calc(100%-96px);
+        width: calc(100% - 96px);
         margin: 0 48px 0 48px;
     }
 }
