@@ -24,7 +24,7 @@
     .place__title {
         max-width: 340px;
         min-height: 46px;
-        font-size: 42px; 
+        font-size: 42px;
         line-height: 1.1;
     }
 }
@@ -33,7 +33,7 @@
     .place__title {
         max-width: 288px;
         min-height: 35px;
-        font-size: 32px; 
+        font-size: 32px;
         line-height: 1.09;
         margin-left: 16px;
     }
