@@ -1,9 +1,8 @@
 .footer__copyright {
     position: relative;
     max-width: 196px;
-    min-height: 16px;
-
-    font-family: 'Inter';
+    
+    font-family: 'Inter', 'Arial', Sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
