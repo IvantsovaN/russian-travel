@@ -5,7 +5,7 @@
     max-width: 640px;
     align-self: center;
     
-    font-family: 'Inter', 'Arial', Sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -33,6 +33,6 @@
         max-width: 640px;
         margin: 0 16px 0 16px;
         font-size: 16px;
-        line-height: 1.25;    
+        line-height: 1.25;  
     }
 }

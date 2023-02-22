@@ -1,10 +1,10 @@
 .intro__title {
     position: relative;
-    margin: 92px 0 40px 0;
+    margin: 95px 0 40px 0;
     padding: 0;
     width: 100%;
         
-    font-family: 'Inter', 'Arial', Sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 54px;
@@ -24,5 +24,5 @@
         margin: 64px 0 40px 0;
         font-size: 32px;
         line-height: 1.09;
-    }    
+    }
 }

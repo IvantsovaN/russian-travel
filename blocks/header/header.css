@@ -1,25 +1,24 @@
-
 .header {
     position: relative;
-    width: calc(100% - 96px);
+    width: 100%;
     margin: 0;
     padding: 28px 48px 0 48px;
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
-              
+                  
 }
 
 @media screen and (max-width: 1023px)  {
     .header {
-        width: calc(100% - 48px);
+        width: 100%;
         padding: 28px 24px 0 24px;
     }
 }
 
 @media screen and (max-width: 767px)  {
     .header {
-        width: calc(100% - 32px);
+        width: 100%;
         padding: 16px 16px 0 16px;
     }
 }
