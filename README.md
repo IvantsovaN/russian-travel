@@ -7,19 +7,14 @@
 
 **Описание**
 
-Это проект о путешествии по России.
-
-
+Это проект о путешествии по России. В проекте использованы гриды, флексбоксы и техники адаптивной вёрстки (относительные размеры блоков) и методология БЭМ.
 
 **Ссылка**
 
-* [Ссылка на проект в GitHab](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на проект в GitHab](https://ivantsovan.github.io/russian-travel/)
 
 **Автор**
 
-Надежlа Иванцова 
-
+Надежда Иванцова 
 e-mail: inu89128856069@gmail.com
-Github: @IvantsovaN
-
 
