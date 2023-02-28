@@ -2,28 +2,19 @@
     position: relative;
     margin: 0;
     padding: 0;
-    width: 40%;
+    width: fit-content;
     display: flex;
-    justify-content: space-between;
+    gap: 18px;
+    justify-content: flex-start;
 }
 
-@media screen and (max-width: 1279px) {
-    .footer__links {
-        width: 50%;
-    }
-}
 
-@media screen and (max-width: 850px) {
-    .footer__links {
-        width: 60%;
-    }
-}
 
 
 @media screen and (max-width: 767px) {
     .footer__links {
         flex-direction: column;
         gap: 32px;
-        justify-content: flex-start;
+        
     }
 }

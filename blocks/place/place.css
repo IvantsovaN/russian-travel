@@ -1,5 +1,5 @@
 .place {
-    margin: 73px 0 0 0;
+    margin: 70px 0 0 0;
     padding: 0;
     width: 100%;
     display: grid;
@@ -16,12 +16,14 @@
 
 @media screen and (max-width: 1023px) {
     .place {
+        margin: 63px 0 0 0;
         gap: 48px 28px;
     }     
 }
 
 @media screen and (max-width: 767px) {
     .place {
+        margin: 40px 0 0 0;
         grid-template-columns: auto;
         gap: 32px;
     }  

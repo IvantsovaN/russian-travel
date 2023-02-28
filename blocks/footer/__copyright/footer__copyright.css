@@ -1,4 +1,6 @@
 .footer__copyright {
+    margin: 0;
+    padding: 0;
     position: relative;
     max-width: 196px;
     
@@ -8,5 +10,5 @@
     font-size: 14px;
     line-height: 1.14;
 
-    color: #AAAAAA;    
+    color: #FFFFFF;    
 }
